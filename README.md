@@ -5,3 +5,5 @@ This is a fun and interactive Simon Game that I built using HTML, CSS, and JavaS
 2 - CSS styles the game to make it look colorful and attractive.
 
 3 - JavaScript adds the game logic, like generating the random pattern, checking your input, and updating the levels.
+
+Live Link : https://fizzysimonapp.netlify.app/
